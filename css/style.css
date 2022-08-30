@@ -13,6 +13,7 @@ body {
 /************************* Class-selector*********************/
 .annual-plan {
   background-color: #f5f7ff;
+  border-radius: 12px;
   color: #1b183b;
   display: inline-block;
   font-size: 16px;
